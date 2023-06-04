@@ -213,3 +213,6 @@ header span {
   filter: blur(10px);
   border: 9px solid rgb(246, 118, 162);
 }
+.strategy {
+  padding: 30px 0;
+}
